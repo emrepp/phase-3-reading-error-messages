@@ -1,3 +1,3 @@
-"hello world"
+a_varible = "hello world"
 
-hello_world
+a_varible = 'hello_world'
